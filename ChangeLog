@@ -1,0 +1,39 @@
+--- to do
+
+
+--- current version
+
+2020-07-01 Federico Filipponi <federico.filipponi@gmail.com>
+
+* Releasing the fifth version of the package (version 0.5)
+* Define final package name to 'CSmosquitoSp'
+* Added new features to the analysis function
+* Edited plot function for compatibility with newer 'ggplot2' and 'sf' packages
+* Minor bug fixes
+
+2018-03-19 Federico Filipponi <federico.filipponi@gmail.com>
+
+* Releasing the forth version of the package (version 0.4)
+* Increased support for the use of custom external vector spatial objects
+* Minor bug fixes
+
+
+2018-03-13 Federico Filipponi <federico.filipponi@gmail.com>
+
+* Releasing the third version of the package (version 0.3)
+* Changed package for handling vector spatial objects from 'sp' to 'sf'
+* Changed package to generate maps to 'ggplot2'
+* Moved spatial join function from 'spatialEco::point.in.poly()' to 'sf::st_intersection()'
+* Created QGis R script to execute data analysis from QuantumGIS software
+* Minor bug fixes
+
+
+2017-11-23 Federico Filipponi <federico.filipponi@gmail.com>
+
+* Releasing the second version of the package (version 0.2)
+* Minor bug fixes
+
+2017-10-06 Federico Filipponi <federico.filipponi@gmail.com>
+
+* Releasing the first version of the package (version 0.1)
+* Starting this log
