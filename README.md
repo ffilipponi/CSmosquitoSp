@@ -15,7 +15,7 @@ Spatial polygons for the Italian territory are provided. Users can upload custom
 
 ### Input spatial features:
 
-* Vector spatial features ofclass 'sf' with the following fields: 'CODE' (unique code); 'AREA' (in square km); 'POPULATION'; 'POP_DENS' (population every 1 square km)
+* Vector spatial features of class 'sf' with the following fields: 'CODE' (unique code); 'AREA' (in square km); 'POPULATION'; 'POP_DENS' (population every 1 square km)
 
 ### Output:
 
