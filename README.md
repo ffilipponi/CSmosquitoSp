@@ -29,6 +29,9 @@ Spatial polygons for the Italian territory are provided. Users can upload custom
 library(devtools)
 install_github("ffilipponi/CSmosquitoSp")
 ```
+### Use in QGIS
+
+The package can be used from QGIS. In QGIS version 3 it is necessary to install 'Processing R Provider' plugin. The CSmosquitoSp spatial analyst can be integrated in QGIS Processing by adding the files /inst/rscript/CSmosquitoSp_spatial_analyst.rsx and /inst/rscript/CSmosquitoSp_spatial_analyst.rsx in the R script folder used by QGIS R processing.
 
 ### Authors
 
